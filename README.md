@@ -1,4 +1,3 @@
-# Supply-Chain-Retail-Analytics
 # Supply Chain & Retail Analytics Dashboard
 
 ## Project Overview
